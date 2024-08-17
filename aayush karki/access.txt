@@ -1,0 +1,12 @@
+homepageurl: localhost:80
+adminuser: sujitaparajuli@gmail.com
+adminpass: sujita
+adminuser: aayushkarki665@gmail.com
+adminpass: Aayushakarki@123
+nonadminuser: apshanpaudel@gmail.com
+nonadminpass: apshan
+Username and password for phpmyadmin (database): root
+
+Note:
+If the layout of the website is misplaced,misbehaving or is not consistent, 
+please force reload the page (Ctrl+F5 or Ctrl+Fn+F5)
